@@ -6,4 +6,5 @@ Key Features include:
 4) Memory: 8 GB LPDDR5 memory with up to 102 GB/s of bandwidth.
 Generative AI Support: Capable of running modern transformer models, vision-language models (VLMs), and large language models (LLMs) directly at the edge. ￼
 Connectivity: Includes USB 3.2 ports, a Gigabit Ethernet port, DisplayPort output, dual MIPI CSI-2 camera connectors, and M.2 expansion slots for NVMe SSDs and wireless cards
-Software Ecosystem: Fully compatible with the NVIDIA Jetson Developer Kits software stack, including frameworks like NVIDIA Isaac for robotics and DeepStream for vision analytics. 
+Software Ecosystem: Fully compatible with the NVIDIA Jetson Developer Kits software stack, including frameworks like NVIDIA Isaac for robotics and DeepStream for vision analytics.
+<img width="1836" height="4080" alt="jetson-img-1" src="https://github.com/user-attachments/assets/0c6f8181-6aa3-42e3-9fee-cfc0cababac3" />
