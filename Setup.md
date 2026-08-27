@@ -11,9 +11,9 @@
 Any storage attached to the developer kit can be utilised to install the Jetson Linux onto the kit
 
 If you are using the SD card insert it into the SD card slot.
-<img width="1000" height="900" alt="IMG_20260827_120343" src="https://github.com/user-attachments/assets/23afd0dd-85be-45db-a5cc-a7f59e52a486" />
+<img width="100" height="90" alt="IMG_20260827_120343" src="https://github.com/user-attachments/assets/23afd0dd-85be-45db-a5cc-a7f59e52a486" />
 If you are using the NVMe SSD unscrew the screw and insert it into the slot on the underside of the board.
-<img width="1000" height="900" alt="IMG_20260827_120655" src="https://github.com/user-attachments/assets/9e84ca61-b4df-44ec-8d8e-b4558a0452f0" />
+<img width="100" height="90" alt="IMG_20260827_120655" src="https://github.com/user-attachments/assets/9e84ca61-b4df-44ec-8d8e-b4558a0452f0" />
 
 ### Check the UEFI firmaware version :
 
@@ -67,6 +67,7 @@ If you are using ubuntu 22.04:
 1. Connect the Developer Kit to your PC (host) with a type C USB cable 
 2. Short pin 9(GND) and 10(FC REC) using a jumper pin(safe) or a paperclip(metallic) if the screen remains blank and the board is powered then the short is successful<img width="2360" height="1118" alt="sdkm-carrier-board-topview" src="https://github.com/user-attachments/assets/aff16d40-fbd7-44b6-8284-956e116cb38e" />
 <img width="300" height="400" alt="IMG_20260827_125038" src="https://github.com/user-attachments/assets/4630d408-18c5-41a0-9deb-6aedc4c36e8c" />
+
 3. In SDK Manager, select Jetson Orin Nano [8GB developer kit version] and click OK.
 4. Clear Host Machine so only the Jetson target remains selected.
 5. Click Continue.
