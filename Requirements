@@ -1,4 +1,4 @@
-What I Have Used
+#What I Have Used
 -Jetson Orin Nano Developer Kit 
 -Power Supply for Jetson Orin Nano(19 V)
 -UHS-1 SD card (preferably 64gb or greater)
