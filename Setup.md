@@ -11,9 +11,9 @@
 Any storage attached to the developer kit can be utilised to install the Jetson Linux onto the kit
 
 If you are using the SD card insert it into the SD card slot.
-<img width="100" height="90" alt="IMG_20260827_120343" src="https://github.com/user-attachments/assets/23afd0dd-85be-45db-a5cc-a7f59e52a486" />
+<img width="400" height="300" alt="IMG_20260827_120343" src="https://github.com/user-attachments/assets/23afd0dd-85be-45db-a5cc-a7f59e52a486" />
 If you are using the NVMe SSD unscrew the screw and insert it into the slot on the underside of the board.
-<img width="100" height="90" alt="IMG_20260827_120655" src="https://github.com/user-attachments/assets/9e84ca61-b4df-44ec-8d8e-b4558a0452f0" />
+<img width="400" height="300" alt="IMG_20260827_120655" src="https://github.com/user-attachments/assets/9e84ca61-b4df-44ec-8d8e-b4558a0452f0" />
 
 ### Check the UEFI firmaware version :
 
