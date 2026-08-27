@@ -1,11 +1,11 @@
 # Getting Started
 
 ## Requirements:
-** -Jetson Orin Nano Developer Kit**
-** -Power supply (19 V)**
-** -A laptop or PC(Linux, Mac or Windows ) with at least 30 GB of storage space**
-** -Target storage (NVMe SSD or UHS-1 sd card 64GB or greater)**
-** -A USB flash drive **
+**-Jetson Orin Nano Developer Kit**
+**-Power supply (19 V)**
+**-A laptop or PC(Linux, Mac or Windows ) with at least 30 GB of storage space**
+**-Target storage (NVMe SSD or UHS-1 sd card 64GB or greater)**
+**-A USB flash drive **
 ## Installation Steps:
 
 Any storage attached to the developer kit can be utilised to install the Jetson Linux onto the kit
@@ -53,7 +53,7 @@ Choose SDK Manager when:
 Install SDK Manager on the Ubuntu host PC. For more information, see the NVIDIA SDK Manager documentationhttps://docs.nvidia.com/sdk-manager/  and the Download and Run SDK Manager pagehttps://docs.nvidia.com/sdk-manager/download-run-sdkm/index.html.
 
 If you are using ubuntu 22.04:
-```wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+```wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb```
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
 sudo apt-get update
 sudo apt-get -y install sdkmanager```
