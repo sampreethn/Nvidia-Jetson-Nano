@@ -71,7 +71,8 @@ If you are using ubuntu 22.04:
 
 1. Connect the Developer Kit to your PC (host) with a type C USB cable 
 2. Short pin 9(GND) and 10(FC REC) using a jumper pin(safe) or a paperclip(metallic) if the screen remains blank and the board is powered then the short is successful<img width="2360" height="1118" alt="sdkm-carrier-board-topview" src="https://github.com/user-attachments/assets/aff16d40-fbd7-44b6-8284-956e116cb38e" />
-<img width="300" height="400" alt="IMG_20260827_125038" src="https://github.com/user-attachments/assets/4630d408-18c5-41a0-9deb-6aedc4c36e8c" />
+<img width="2300" height="1179" alt="IMG_20260827_132151" src="https://github.com/user-attachments/assets/da21be97-9de4-47b1-8bfc-4f275c199a60" />
+
 
 3. In SDK Manager, select Jetson Orin Nano [8GB developer kit version] and click OK.
 
@@ -84,9 +85,13 @@ If you are using ubuntu 22.04:
 ## Install Software Components
 
 1. Select the list of components you want to install and proceed.
+<img width="2800" height="1800" alt="sdkm-ready" src="https://github.com/user-attachments/assets/5c1320f7-b827-4529-8a3d-b5b4f4b38a98" />
+
+
 2. Enter your host PC sudo password when prompted.
 3. Download the packages you want on your host as well
 4. When the images are ready, SDK Manager opens the flashing prompt.
+<img width="1601" height="801" alt="sdkm-runtime-selection" src="https://github.com/user-attachments/assets/02e65655-eb14-4336-889e-7007c7d72767" />
 
 ## Flash
 1. In the flashing prompt, select Runtime for OEM Configuration.
